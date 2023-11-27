@@ -11,4 +11,3 @@ Over the course of my career I have worked with the following:
 * Clouds: AWS, Azure, GCP.
   * Most experience with AWS
 
-GitHub: [hznut](https://github.com/hznut)
