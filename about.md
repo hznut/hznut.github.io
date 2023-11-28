@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Himanshu Vijay
+title: About
 permalink: /about/
 ---
 
